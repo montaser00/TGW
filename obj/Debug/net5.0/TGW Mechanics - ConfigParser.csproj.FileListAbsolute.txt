@@ -1,0 +1,18 @@
+C:\Users\MSI\source\repos\TGW Mechanics - ConfigParser\obj\Debug\net5.0\TGW Mechanics - ConfigParser.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\TGW Mechanics - ConfigParser\obj\Debug\net5.0\TGW Mechanics - ConfigParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\TGW Mechanics - ConfigParser\obj\Debug\net5.0\TGW Mechanics - ConfigParser.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\TGW Mechanics - ConfigParser\obj\Debug\net5.0\TGW Mechanics - ConfigParser.AssemblyInfo.cs
+C:\Users\MSI\source\repos\TGW Mechanics - ConfigParser\obj\Debug\net5.0\TGW Mechanics - ConfigParser.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\TGW Mechanics - ConfigParser\bin\Debug\net5.0\TGW Mechanics - ConfigParser.exe
+C:\Users\MSI\source\repos\TGW Mechanics - ConfigParser\bin\Debug\net5.0\TGW Mechanics - ConfigParser.deps.json
+C:\Users\MSI\source\repos\TGW Mechanics - ConfigParser\bin\Debug\net5.0\TGW Mechanics - ConfigParser.runtimeconfig.json
+C:\Users\MSI\source\repos\TGW Mechanics - ConfigParser\bin\Debug\net5.0\TGW Mechanics - ConfigParser.runtimeconfig.dev.json
+C:\Users\MSI\source\repos\TGW Mechanics - ConfigParser\bin\Debug\net5.0\TGW Mechanics - ConfigParser.dll
+C:\Users\MSI\source\repos\TGW Mechanics - ConfigParser\bin\Debug\net5.0\ref\TGW Mechanics - ConfigParser.dll
+C:\Users\MSI\source\repos\TGW Mechanics - ConfigParser\bin\Debug\net5.0\TGW Mechanics - ConfigParser.pdb
+C:\Users\MSI\source\repos\TGW Mechanics - ConfigParser\obj\Debug\net5.0\TGW Mechanics - ConfigParser.dll
+C:\Users\MSI\source\repos\TGW Mechanics - ConfigParser\obj\Debug\net5.0\ref\TGW Mechanics - ConfigParser.dll
+C:\Users\MSI\source\repos\TGW Mechanics - ConfigParser\obj\Debug\net5.0\TGW Mechanics - ConfigParser.pdb
+C:\Users\MSI\source\repos\TGW Mechanics - ConfigParser\obj\Debug\net5.0\TGW Mechanics - ConfigParser.genruntimeconfig.cache
+C:\Users\MSI\source\repos\TGW Mechanics - ConfigParser\bin\Debug\net5.0\Contents\Base_Config.txt
+C:\Users\MSI\source\repos\TGW Mechanics - ConfigParser\bin\Debug\net5.0\Contents\Project_Config.txt
